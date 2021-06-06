@@ -15,3 +15,7 @@ Expected Input
 2, 1, 2, 0, 2, -1, Treasure	          2,2,2, Treasure
 2, 4, 3, 0, -1, -1, Treasure	        0
 2, 10, 1, -1, 1, -2, Treasure        -1
+
+
+Kindly change the in-line array and run the program
+go run main.go
